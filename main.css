@@ -201,9 +201,4 @@ tr {
   right: 108px; 
 }
 
-#bigcontainer {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-}
 
