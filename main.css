@@ -2,31 +2,6 @@
 /*saját css kód */ 
     
 body {
-    line-height: 1;
-}
-
-ol, ul {
-    list-style: none;
-}
-
-blockquote, q {
-    quotes: none;
-}
-
-blockquote:before, blockquote:after,
-q:before, q:after {
-    content: '';
-    content: none;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-
-
-body {
  display: flex;
  justify-content: center;
  align-items: center;
@@ -108,12 +83,6 @@ tr {
 .a.fa.fa-pinterest {
   margin-left: -7px;
 }
-    
-#portfolio {
-    display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-    }
 
 #kép1 {
   margin-top: 0px;
@@ -178,5 +147,3 @@ tr {
   top: -1188px;
   right: 108px; 
 }
-
-
