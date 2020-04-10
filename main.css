@@ -19,8 +19,6 @@ time, mark, audio, video {
     font: inherit;
     vertical-align: baseline;
 }
-
-    
     
 
 /*saját css kód */ 
@@ -204,8 +202,6 @@ tr {
 }
 
 #bigcontainer {
-  width: 70px;
-  height: 300px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
