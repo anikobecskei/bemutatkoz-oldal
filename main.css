@@ -19,6 +19,7 @@ body {
   max-width: calc(100vw - 10px);
   height: 480px;
   padding-top: 10px;
+  align-content: center;
 }
 
 .profilkep{
