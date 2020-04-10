@@ -203,8 +203,11 @@ tr {
   right: 108px; 
 }
 
-#elem1 {
-  position: relative;
-  top: -490px;
-  right: -200px
+#bigcontainer {
+  width: 70px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
+
