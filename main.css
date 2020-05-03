@@ -35,6 +35,7 @@ body {
  text-align: center;
  background: url('https://i.pinimg.com/originals/9e/e7/41/9ee741cfbe4529d8cdbeea1f65b5fa6f.jpg') no-repeat center center fixed;
   background-size: cover;
+ 
 }
 
 
@@ -157,7 +158,7 @@ tr {
   width: 80%;
   max-width: calc(100vw - 10px);
   height: 100%;
-  padding: 3rem;
+  padding: 1.5rem;
   position: relative;
   right: auto;
   top: 2rem;
@@ -192,7 +193,7 @@ tr {
   width: 80%;
   max-width: calc(100vw - 10px);
   height: 100%;
-  padding: 3rem;
+  padding: 1.5rem;
   position: relative;
   right: auto;
   top: 2rem;
@@ -228,7 +229,7 @@ tr {
   width: 80%;
   max-width: calc(100vw - 10px);
   height: 100%;
-  padding: 3rem;
+  padding: 1.5rem;
   position: relative;
   right: auto;
   top: 2rem;
